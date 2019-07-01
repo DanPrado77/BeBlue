@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29020.237
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeBlue.Desafio", "BeBlue.Desafio\BeBlue.Desafio.csproj", "{D78FD5F3-4EAB-493D-9C50-500FB2FE2763}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D78FD5F3-4EAB-493D-9C50-500FB2FE2763}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D78FD5F3-4EAB-493D-9C50-500FB2FE2763}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D78FD5F3-4EAB-493D-9C50-500FB2FE2763}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D78FD5F3-4EAB-493D-9C50-500FB2FE2763}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A277F0FF-84AE-4CAA-B81E-6A0308D8E662}
+	EndGlobalSection
+EndGlobal
